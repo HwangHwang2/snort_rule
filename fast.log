@@ -1,0 +1,79 @@
+12/11/2019-12:11:05.886231  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37102 -> 175.213.35.39:80
+12/11/2019-12:11:06.212448  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37106 -> 175.213.35.39:80
+12/11/2019-12:11:06.213030  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37108 -> 175.213.35.39:80
+12/11/2019-12:11:06.225227  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37112 -> 175.213.35.39:80
+12/11/2019-12:11:06.228829  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37110 -> 175.213.35.39:80
+12/11/2019-12:11:06.239176  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37102 -> 175.213.35.39:80
+12/11/2019-12:11:06.242671  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37114 -> 175.213.35.39:80
+12/11/2019-12:11:06.270115  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37108 -> 175.213.35.39:80
+12/11/2019-12:11:06.270165  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37114 -> 175.213.35.39:80
+12/11/2019-12:11:06.312954  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37112 -> 175.213.35.39:80
+12/11/2019-12:11:06.316953  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37110 -> 175.213.35.39:80
+12/11/2019-12:11:06.316991  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37106 -> 175.213.35.39:80
+12/11/2019-12:11:06.774560  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37108 -> 175.213.35.39:80
+12/11/2019-12:11:06.789054  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37108 -> 175.213.35.39:80
+12/11/2019-12:11:06.794129  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37112 -> 175.213.35.39:80
+12/11/2019-12:11:06.815606  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37110 -> 175.213.35.39:80
+12/11/2019-12:11:06.816507  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37112 -> 175.213.35.39:80
+12/11/2019-12:11:06.817947  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37106 -> 175.213.35.39:80
+12/11/2019-12:11:06.821072  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37102 -> 175.213.35.39:80
+12/11/2019-12:11:06.865593  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37114 -> 175.213.35.39:80
+12/11/2019-12:11:06.869006  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37110 -> 175.213.35.39:80
+12/11/2019-12:11:06.889778  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37112 -> 175.213.35.39:80
+12/11/2019-12:12:52.577194  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37166 -> 175.213.35.39:80
+12/11/2019-12:12:52.679495  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37166 -> 175.213.35.39:80
+12/11/2019-12:13:07.539093  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37190 -> 175.213.35.39:80
+12/11/2019-12:13:07.769959  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37192 -> 175.213.35.39:80
+12/11/2019-12:13:07.771135  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37190 -> 175.213.35.39:80
+12/11/2019-12:13:07.802583  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37196 -> 175.213.35.39:80
+12/11/2019-12:13:07.802637  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37200 -> 175.213.35.39:80
+12/11/2019-12:13:07.803312  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37198 -> 175.213.35.39:80
+12/11/2019-12:13:07.803398  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37194 -> 175.213.35.39:80
+12/11/2019-12:13:07.803997  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37190 -> 175.213.35.39:80
+12/11/2019-12:13:07.845051  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37192 -> 175.213.35.39:80
+12/11/2019-12:13:07.857071  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37190 -> 175.213.35.39:80
+12/11/2019-12:13:07.857150  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37196 -> 175.213.35.39:80
+12/11/2019-12:13:07.861017  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37200 -> 175.213.35.39:80
+12/11/2019-12:13:07.892528  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37192 -> 175.213.35.39:80
+12/11/2019-12:13:07.894439  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37196 -> 175.213.35.39:80
+12/11/2019-12:13:07.897531  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37200 -> 175.213.35.39:80
+12/11/2019-12:13:07.899768  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37198 -> 175.213.35.39:80
+12/11/2019-12:13:07.908847  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37192 -> 175.213.35.39:80
+12/11/2019-12:13:07.921196  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37192 -> 175.213.35.39:80
+12/11/2019-12:13:07.924829  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37200 -> 175.213.35.39:80
+12/11/2019-12:13:07.929937  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37198 -> 175.213.35.39:80
+12/11/2019-12:13:07.965636  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37196 -> 175.213.35.39:80
+12/11/2019-12:13:07.973682  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37192 -> 175.213.35.39:80
+12/11/2019-12:13:07.981657  [**] [1:10001:1] test rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:37200 -> 175.213.35.39:80
+12/11/2019-13:28:29.960159  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:54952 -> 125.209.222.142:443
+12/11/2019-13:28:30.558378  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:33310 -> 210.89.172.16:443
+12/11/2019-13:28:30.561433  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:33308 -> 210.89.172.16:443
+12/11/2019-13:28:30.625541  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:52722 -> 117.52.130.123:443
+12/11/2019-13:28:31.743672  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:58624 -> 125.209.230.238:443
+12/11/2019-13:28:31.960350  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:33168 -> 210.89.170.11:443
+12/11/2019-13:28:39.183260  [**] [1:10010:1] Packet Source: facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:50274 -> 31.13.76.35:443
+12/11/2019-13:28:39.736732  [**] [1:10010:1] Packet Source: facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:50288 -> 31.13.76.35:443
+12/11/2019-13:28:51.353562  [**] [1:10008:1] Packet Source: twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:57618 -> 104.244.42.129:443
+12/11/2019-13:28:53.233202  [**] [1:10008:1] Packet Source: twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:36992 -> 104.244.42.67:443
+12/11/2019-13:28:53.268422  [**] [1:10008:1] Packet Source: twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:48614 -> 104.244.42.72:443
+12/11/2019-13:33:54.867553  [**] [1:10010:1] Packet Source: facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:50378 -> 31.13.76.35:443
+12/11/2019-13:34:35.170516  [**] [1:10008:1] Packet Source: twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:38834 -> 104.244.42.193:443
+12/11/2019-13:34:36.747904  [**] [1:10008:1] Packet Source: twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:36036 -> 104.244.42.3:443
+12/11/2019-13:34:36.783037  [**] [1:10008:1] Packet Source: twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:43676 -> 104.244.42.8:443
+12/11/2019-13:35:13.365711  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:55152 -> 125.209.222.142:443
+12/11/2019-13:35:14.046863  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:33492 -> 210.89.172.16:443
+12/11/2019-13:35:14.086180  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:53874 -> 210.89.160.70:443
+12/11/2019-13:35:15.435684  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:60904 -> 210.89.172.40:443
+12/11/2019-13:35:15.752024  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:46292 -> 210.89.171.11:443
+12/11/2019-13:35:18.201922  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:49992 -> 210.89.172.32:443
+12/11/2019-13:35:18.260351  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:38132 -> 210.89.168.66:443
+12/11/2019-13:35:19.101580  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:35228 -> 125.209.226.239:443
+12/11/2019-13:35:19.444399  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:60280 -> 210.89.172.24:443
+12/11/2019-13:35:19.469386  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:60918 -> 210.89.172.40:443
+12/11/2019-13:35:20.462354  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:58636 -> 210.89.168.146:443
+12/11/2019-13:35:21.013836  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:49514 -> 210.89.168.165:443
+12/11/2019-13:35:21.015488  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:49518 -> 210.89.168.165:443
+12/11/2019-13:35:21.024188  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:49516 -> 210.89.168.165:443
+12/11/2019-13:35:22.613513  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:60954 -> 210.89.172.40:443
+12/11/2019-13:35:22.723129  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:46342 -> 210.89.171.11:443
+12/11/2019-13:35:24.796271  [**] [1:10003:1] Packet Source: www.naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.146.129:50044 -> 210.89.172.32:443
